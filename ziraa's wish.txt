@@ -2,4 +2,4 @@ become a better programmer
 I presume I could be more productive
 and yes, if you are wondering why I'm creating this repo, I'm just learning about github, and I'm creating this just to practice making a new file
 this line is to test  edit feature
-more line is better I guess
+less
